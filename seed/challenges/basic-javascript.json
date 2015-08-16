@@ -766,9 +766,9 @@
       ],
       "challengeSeed":[
         "// var ourDog = {",
-        "//   \"name\": \"Camper\"",
-        "//   \"legs\": 4",
-        "//   \"tails\": 1",
+        "//   \"name\": \"Camper\",",
+        "//   \"legs\": 4,",
+        "//   \"tails\": 1,",
         "//   \"friends\": [\"everything!\"]",
         "// };",
         "",
